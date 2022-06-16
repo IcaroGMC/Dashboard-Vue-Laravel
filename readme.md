@@ -1,1 +1,0 @@
-# Dashboard using Vue (Frontend) + Laravel (Backend)
